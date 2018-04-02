@@ -10,7 +10,7 @@ C:\mongodb\bin> mongod --dbpath C:\data
 '''
 ---
 Hasil jika sudah berhasil akan terlihat seperti gambar dibawah ini 
-![Gambar1]()
+![Gambar1](https://github.com/AnnisaFahma/express.mongoose.mvc/blob/master/gambar1.jpg.png)
 ---
 2. selanjutnya adalah kita mencoba bekerja di dalam mongoDB yang sudah diinstal
 ---
