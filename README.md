@@ -17,4 +17,4 @@ Hasil jika sudah berhasil akan terlihat seperti gambar dibawah ini
 Kali ini saya akan membuat database dengan nama databaseAnnisa, maka querynya adalah seperti gambar dibawah ini  :
 ---
 Hasil jika sudah berhasil akan terlihat seperti gambar dibawah ini 
-![Gambar2]()
+![Gambar2](https://github.com/AnnisaFahma/express.mongoose.mvc/blob/master/gambar2.jpg.png)
